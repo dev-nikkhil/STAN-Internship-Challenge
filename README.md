@@ -3,6 +3,8 @@
 ## Objective  
 Design and implement a **human-like conversational chatbot agent** that can be embedded into consumer-facing applications such as social platforms or user-generated content (UGC) platforms.  
 
+https://buddy-ochre-theta.vercel.app/
+
 Unlike a basic Q&A bot, this chatbot demonstrates:  
 - **Empathy**  
 - **Contextual Awareness**  
@@ -27,11 +29,6 @@ Unlike a basic Q&A bot, this chatbot demonstrates:
 - **Empathy** → Adapts tone via **Context Prompting**  
 - **Memory** → Session persistence using MongoDB  
 - **Scalability** → Supports multiple users and sessions efficiently  
-
----
-## Deployment on Render
-
-https://buddy-ochre-theta.vercel.app/
 ---
 
 ## Project Architecture  
