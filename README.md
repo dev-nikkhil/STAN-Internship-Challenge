@@ -42,3 +42,8 @@ Backend (Node.js + Express)
         │
         ▼
 Database (MongoDB) ←→ Google Gemini API
+
+---
+**## Deployment on Render **
+
+https://buddy-ochre-theta.vercel.app/
