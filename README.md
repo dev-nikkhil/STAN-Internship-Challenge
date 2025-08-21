@@ -29,6 +29,10 @@ Unlike a basic Q&A bot, this chatbot demonstrates:
 - **Scalability** → Supports multiple users and sessions efficiently  
 
 ---
+## Deployment on Render
+
+https://buddy-ochre-theta.vercel.app/
+---
 
 ## Project Architecture  
 
@@ -44,6 +48,3 @@ Backend (Node.js + Express)
 Database (MongoDB) ←→ Google Gemini API
 
 ---
-**## Deployment on Render **
-
-https://buddy-ochre-theta.vercel.app/
